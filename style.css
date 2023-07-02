@@ -158,6 +158,13 @@ body {
     color: #45B34C;
     
   }
+  .residue {
+    font-size: 1.5rem;
+  }
+  .map {
+    text-align: center;
+    font-weight: 700;
+  }
  
 
 
