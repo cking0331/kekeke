@@ -38,7 +38,7 @@ body {
     
     padding-left: 100px;
     padding-right: 100px;
-    background-color: #45B34C;
+    background-color: #48CC54;
    
     justify-content: center;
     margin-top: 150px;
@@ -54,7 +54,7 @@ body {
   }
   
   body{
-    background-color:#45B34C;
+    background-color:#48CC54;
     margin:0;
     padding:0;
     overflow-x: hidden;
@@ -63,7 +63,7 @@ body {
   .navbar{
     display:flex;
     justify-content:space-between;
-    background-color:#CAE439;
+    background-color:#EAE0C7;
     color:white; 
     font-family: 'Noto Sans Mono', monospace;
   }
@@ -129,7 +129,7 @@ body {
   }
   .buttonHere {
     color: #45B34C;
-    background-color: #CAE439;
+    background-color: #EAE0C7;
     padding: 20px;
     font-size: 1.5rem;
     border-radius: 20px;
@@ -242,6 +242,12 @@ body {
         text-align: center;
     } .resizeBG {
         padding-left: 0;
+        width: 50px;
+    } .pepesaurusImage {
+      width: 370px;
+    } .taxPepesaurus {
+      font-size: 1.5rem;
+      text-align: center;
     }
     
 
